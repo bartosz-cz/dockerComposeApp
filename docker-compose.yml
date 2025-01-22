@@ -3,7 +3,7 @@ version: "3.8"
 services:
   frontend:
     build:
-      context: ./encryption-app
+      context: ./encryption
       dockerfile: Dockerfile
     ports:
       - "3000:80"

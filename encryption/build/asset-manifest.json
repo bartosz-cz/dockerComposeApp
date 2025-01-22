@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da803233.css",
+    "main.js": "/static/js/main.2ebe869e.js",
+    "static/js/453.1f0c7d46.chunk.js": "/static/js/453.1f0c7d46.chunk.js",
+    "static/media/Account.svg": "/static/media/Account.733c84d5616728a661c045228070fcb8.svg",
+    "index.html": "/index.html",
+    "static/media/Password.svg": "/static/media/Password.37b18ca9ea777e7494bb9400b2d44acf.svg",
+    "static/media/KeyOff.svg": "/static/media/KeyOff.a2e229465b047629506c27fadc885987.svg",
+    "static/media/EncryptedOff.svg": "/static/media/EncryptedOff.f12e3f5b17b6d6d4f6f161d7e67b521a.svg",
+    "static/media/Lock.svg": "/static/media/Lock.342acb11e99d9e2eae92bc644f7f9076.svg",
+    "static/media/Key.svg": "/static/media/Key.e6779fea26dcd6c1c95bf6461c00c0aa.svg",
+    "static/media/LockOpen.svg": "/static/media/LockOpen.1481075d821f7d862c66e41a63edccb2.svg",
+    "static/media/EncryptedAdd.svg": "/static/media/EncryptedAdd.d1370016495c69fe2211e107b77dcf22.svg",
+    "static/media/Paste.svg": "/static/media/Paste.9af6fb7e736d68a263769c1b9d435d6e.svg",
+    "static/media/Encrypted.svg": "/static/media/Encrypted.1007bcdcce960a53f03bfe90acd5b1e2.svg",
+    "static/media/Register.svg": "/static/media/Register.b95b671d26c1f748759d4eb91477d95d.svg",
+    "static/media/Copy.svg": "/static/media/Copy.acf0bfaf6ad8e98e61cb99411c45bed8.svg",
+    "static/media/Username.svg": "/static/media/Username.aabf6c3d3742ddf6d2f7dc56be9ea70d.svg",
+    "static/media/Login.svg": "/static/media/Login.246f698ac57f9588c707a5f4161d9d28.svg",
+    "static/media/Check.svg": "/static/media/Check.9601f29e2f8b28fd308b55aea716e77e.svg",
+    "main.da803233.css.map": "/static/css/main.da803233.css.map",
+    "main.2ebe869e.js.map": "/static/js/main.2ebe869e.js.map",
+    "453.1f0c7d46.chunk.js.map": "/static/js/453.1f0c7d46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da803233.css",
+    "static/js/main.2ebe869e.js"
+  ]
+}
