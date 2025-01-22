@@ -11,7 +11,6 @@ RUN npm ci
 # Copy the application code
 COPY . .
 
-# Expose port
 EXPOSE 5000
 
 CMD ["npm", "start"]
