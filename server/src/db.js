@@ -1,17 +1,15 @@
 const mysql = require("mysql2");
 
-// Create a connection pool for better performance
-const pool = mysql.createPool({
-  host: "localhost",
+const connect = mysql.createPool({
+  host: "database",
   user: "root",
-  password: "password",
+  password: "rootpassword",
   database: "aplikacje",
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0,
 });
 
-// For Promises (async/await)
-const promisePool = pool.promise();
+const promisePool = connect.promise();
 
 module.exports = promisePool;

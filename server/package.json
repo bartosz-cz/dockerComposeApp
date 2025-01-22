@@ -14,12 +14,19 @@
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.21.1",
+    "http": "^0.0.1-security",
     "jsonwebtoken": "^9.0.2",
     "jwt-decode": "^4.0.0",
     "mysql2": "^3.11.4",
-    "server": "file:"
+    "server": "file:",
+    "serverless-http": "^3.2.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "nodemon": "^3.1.7",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4"
   }
 }
